@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "chibi-pattern", "chibi-pattern.asmproj", "{9F433B99-6A94-49B3-B535-932741C0AB19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F433B99-6A94-49B3-B535-932741C0AB19}.Debug|AVR.ActiveCfg = Debug|AVR
+		{9F433B99-6A94-49B3-B535-932741C0AB19}.Debug|AVR.Build.0 = Debug|AVR
+		{9F433B99-6A94-49B3-B535-932741C0AB19}.Release|AVR.ActiveCfg = Release|AVR
+		{9F433B99-6A94-49B3-B535-932741C0AB19}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

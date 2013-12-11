@@ -1,0 +1,51 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATtiny5"</DEVICE>
+ <WORKING_DIR>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.1005\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.1005\avrassembler\Include\tn5def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\Debug/chibi-pattern.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>chibi-pattern.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>chibi-pattern.map</FILE>
+  <FILE>chibi-pattern.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm</FILE><LINE>32</LINE></RESET>
+  <_eternal><FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm</FILE><LINE>56</LINE></_eternal>
+  <poll><FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm</FILE><LINE>60</LINE></poll>
+  <pwmOn><FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm</FILE><LINE>239</LINE></pwmOn>
+  <next1><FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm</FILE><LINE>80</LINE></next1>
+  <twinkle><FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm</FILE><LINE>120</LINE></twinkle>
+  <next2><FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm</FILE><LINE>86</LINE></next2>
+  <fade><FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm</FILE><LINE>139</LINE></fade>
+  <next3><FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm</FILE><LINE>91</LINE></next3>
+  <blink><FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm</FILE><LINE>96</LINE></blink>
+  <heartbeat><FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm</FILE><LINE>166</LINE></heartbeat>
+  <pwmChange><FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm</FILE><LINE>253</LINE></pwmChange>
+  <onDelay><FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm</FILE><LINE>210</LINE></onDelay>
+  <offDelay><FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm</FILE><LINE>222</LINE></offDelay>
+  <do_prng><FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm</FILE><LINE>191</LINE></do_prng>
+  <cntup><FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm</FILE><LINE>149</LINE></cntup>
+  <cntdwn><FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm</FILE><LINE>156</LINE></cntdwn>
+  <faderet><FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm</FILE><LINE>161</LINE></faderet>
+  <loop1><FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm</FILE><LINE>213</LINE></loop1>
+  <loop2><FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm</FILE><LINE>227</LINE></loop2>
+  <pwmOff><FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm</FILE><LINE>247</LINE></pwmOff>
+  <pwmNextTest><FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm</FILE><LINE>258</LINE></pwmNextTest>
+  <pwmGoUp><FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm</FILE><LINE>270</LINE></pwmGoUp>
+  <pwmGoDn><FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm</FILE><LINE>261</LINE></pwmGoDn>
+  <pwmWait><FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm</FILE><LINE>279</LINE></pwmWait>
+  <pwmWaitLoop><FILE>F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm</FILE><LINE>283</LINE></pwmWaitLoop>
+ </LABELS>
+</ASSEMBLER_INFO>
