@@ -76,21 +76,25 @@ poll:
 
  brsh   next1
  rcall  pwmOn
- rjmp   twinkle
+ ; rjmp   twinkle
+ rjmp fade
 next1:
  ldi    temp1, 106
  cp     adcval,temp1
  brsh   next2
  rcall  pwmOn
- rjmp   fade
+ ; rjmp   fade
+ rjmp twinkle
 next2:
  ldi    temp1, 191
  cp     adcval,temp1
  brsh   next3
- rjmp   blink
+ ;rjmp   blink
+ rjmp   heartbeat
 next3:
  rcall  pwmOn
- rjmp   heartbeat
+ ;rjmp   heartbeat
+ rjmp  blink
 
 /////////////////////// Blink behavior
 blink: ; blink the LED

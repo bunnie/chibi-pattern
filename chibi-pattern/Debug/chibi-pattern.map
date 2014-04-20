@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.1.52  F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm Wed Dec 11 18:15:53 2013
+AVRASM ver. 2.1.52  F:\largework\sources\chibitronics\chibi-pattern\chibi-pattern\chibi-pattern.asm Mon Apr 21 02:31:36 2014
 
 
 EQU  SIGNATURE_000 0000001e
@@ -257,12 +257,12 @@ CSEG _eternal     0000000e
 CSEG poll         00000011
 CSEG pwmOn        0000008b
 CSEG next1        0000001b
-CSEG twinkle      00000037
-CSEG next2        00000020
 CSEG fade         00000047
+CSEG next2        00000020
+CSEG twinkle      00000037
 CSEG next3        00000024
-CSEG blink        00000026
 CSEG heartbeat    00000058
+CSEG blink        00000026
 CSEG pwmChange    00000093
 CSEG onDelay      0000007a
 CSEG offDelay     00000082
